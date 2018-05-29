@@ -10,6 +10,7 @@
 	background: rgb(103, 174, 159);
 	border: 1px solid rgb(103, 174, 159);
 	box-shadow: 2px 2px 2px rgb(220, 220, 210);
+	font-family: 'Quicksand'; 
 
 }
 #button:hover{
@@ -31,7 +32,7 @@
 }
 
 #Barre{
-	background-color: rgb(242, 242, 242);
+	background-color: rgb(248, 249, 250);
 /*	padding: 10px; 
 	margin: 20px; */
 }
@@ -42,6 +43,9 @@
 
 .t1{
 color: grey; 
+font-family: 'Quicksand' 
+font-size: 80px;
+
 }
 .t1:hover{
 	color: rgb(103, 174, 159);
